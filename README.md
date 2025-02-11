@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/16269b35-1293-479c-b652-17737d6b06d0" alt="Your Image Alt Text" width="600"> 
+</p>
 
 **Jarvis** is a lightweight, Python-based virtual assistant inspired by the iconic AI helper from popular culture. Designed to respond to voice commands, Jarvis seamlessly integrates multiple functionalities—from opening your favorite websites and playing music to fetching the latest news headlines and even handling more general queries with the help of OpenAI's GPT-3.5 Turbo model.
 

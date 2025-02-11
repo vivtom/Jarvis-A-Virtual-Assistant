@@ -6,7 +6,6 @@ import requests
 from openai import OpenAI
 
 
-# recognizer = sr.Recognizer()
 engine = pyttsx3.init() 
 newsapi = "<news api key>"
 
@@ -65,9 +64,6 @@ def processCommand(c):
         speak(output) 
 
 
-
-
-
 if __name__ == "__main__":
     speak("Initializing Jarvis....")
     while True:
@@ -92,9 +88,10 @@ if __name__ == "__main__":
 
                     processCommand(command)
 
-
         except Exception as e:
             print("Error; {0}".format(e))
+
+
 
 
 
